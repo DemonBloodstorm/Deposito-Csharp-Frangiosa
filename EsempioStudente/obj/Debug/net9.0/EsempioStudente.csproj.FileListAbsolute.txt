@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\bin\Debug\net9.0\EsempioStudente.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\bin\Debug\net9.0\EsempioStudente.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\bin\Debug\net9.0\EsempioStudente.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\bin\Debug\net9.0\EsempioStudente.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\bin\Debug\net9.0\EsempioStudente.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\refint\EsempioStudente.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\EsempioStudente.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\EsempioStudente\obj\Debug\net9.0\ref\EsempioStudente.dll

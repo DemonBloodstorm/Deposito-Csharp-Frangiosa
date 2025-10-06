@@ -76,5 +76,5 @@ class Program
         Console.WriteLine($"\nHai diritto a uno sconto del {sconto * 100}%! Risparmio: {scontoApplicato}€");
         }
         Console.WriteLine($"\nTotale finale da pagare: {totale}€");
-    }
+    } 
 }
