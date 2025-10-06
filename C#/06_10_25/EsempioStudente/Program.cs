@@ -8,7 +8,7 @@ class Studente
     public double media;
 
     // costruttore della classe Studente
-    public C_Studente(string nome, int matricola, double media)
+    public Studente(string nome, int matricola, double media)
     {
         this.nome = nome;
         this.matricola = matricola;

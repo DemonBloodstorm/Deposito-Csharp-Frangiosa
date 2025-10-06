@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioStudente\\EsempioStudente.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioStudente\\EsempioStudente.csproj",
       "projectName": "EsempioStudente",
-      "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioStudente\\EsempioStudente.csproj",
+      "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioStudente\\EsempioStudente.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioStudente\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioStudente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
