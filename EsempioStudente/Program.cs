@@ -6,7 +6,7 @@ class Studente
     public int matricola;
     public double media;
 
-    public Studente(string nome, int matricola, double media)
+    public C_Studente(string nome, int matricola, double media)
     {
         this.nome = nome;
         this.matricola = matricola;
