@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\C#--Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj": {}
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\C#--Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj": {
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\C#--Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj",
         "projectName": "Saluto",
-        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\C#--Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Saluto\\Saluto.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\C#--Frangiosa\\C#\\02_10_25\\Saluto\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Saluto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
