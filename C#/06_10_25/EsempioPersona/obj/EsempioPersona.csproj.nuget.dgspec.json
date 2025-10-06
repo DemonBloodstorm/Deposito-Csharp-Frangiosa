@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioPersona\\EsempioPersona.csproj": {}
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioPersona\\EsempioPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioPersona\\EsempioPersona.csproj": {
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioPersona\\EsempioPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioPersona\\EsempioPersona.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioPersona\\EsempioPersona.csproj",
         "projectName": "EsempioPersona",
-        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioPersona\\EsempioPersona.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioPersona\\EsempioPersona.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\EsempioPersona\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\06_10_25\\EsempioPersona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
