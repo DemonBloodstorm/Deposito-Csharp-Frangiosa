@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\bin\Debug\net9.0\EsempioOperazioni.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\bin\Debug\net9.0\EsempioOperazioni.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\bin\Debug\net9.0\EsempioOperazioni.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\bin\Debug\net9.0\EsempioOperazioni.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\bin\Debug\net9.0\EsempioOperazioni.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\refint\EsempioOperazioni.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\EsempioOperazioni.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\06_10_25\EsempioOperazioni\obj\Debug\net9.0\ref\EsempioOperazioni.dll
