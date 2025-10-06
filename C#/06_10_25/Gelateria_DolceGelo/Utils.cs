@@ -22,5 +22,6 @@ class Utils
 
         return prezzi[scelta - 1] * quantita;
     }
+
 }
 

@@ -5,6 +5,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        List<int> gustiOrdinati = new List<int>();
+        List<int> quantitaOrdinata = new List<int>();
+        const double soglia_sconto = 10;
+        double scontoApplicato = 0;
+        const double sconto = 0.10;
         int scelta = 0;
         int quantita = 0;
         double totale = 0;
@@ -46,26 +51,30 @@ class Program
                 continue;
             }
 
-            Console.WriteLine($"Vuoi un altro gusto? (sì/no)");
-            risposta = Console.ReadLine().ToLower();
-            try
-            {
-                if (risposta != "sì" && risposta != "no")
-                {
-                    Console.WriteLine("Risposta non valida!");
-                    continue;
-                }
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Risposta non valida inserire sì o no!");
-                continue;
-            }
-            
+            gustiOrdinati.Add(scelta - 1);
+            quantitaOrdinata.Add(quantita);
             totale += Utils.CalcolaTotale(scelta, quantita);
-            Console.WriteLine($"Il totale è: {totale}€");
+
+            while (true)
+            {
+                Console.Write("Vuoi un altro gusto? (si/no): ");
+                risposta = Console.ReadLine().Trim().ToLower();
+                if (risposta == "si" || risposta == "no")
+                    break;
+                Console.WriteLine("Risposta non valida! Inserisci 'si' o 'no'.");
+            }
+
+            if (risposta == "no")
+                break;
 
             
         }
+        if (totale >= soglia_sconto)
+        {
+        scontoApplicato = totale * sconto;
+        totale -= scontoApplicato;
+        Console.WriteLine($"\nHai diritto a uno sconto del {sconto * 100}%! Risparmio: {scontoApplicato}€");
+        }
+        Console.WriteLine($"\nTotale finale da pagare: {totale}€");
     }
 }
