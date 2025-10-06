@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\bin\Debug\net9.0\Quanti_Numeri.exe
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\bin\Debug\net9.0\Quanti_Numeri.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\bin\Debug\net9.0\Quanti_Numeri.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\bin\Debug\net9.0\Quanti_Numeri.dll
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\bin\Debug\net9.0\Quanti_Numeri.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.dll
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\refint\Quanti_Numeri.dll
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\Quanti_Numeri.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Quanti_Numeri\obj\Debug\net9.0\ref\Quanti_Numeri.dll

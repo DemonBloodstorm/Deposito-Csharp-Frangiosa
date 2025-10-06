@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\bin\Debug\net9.0\Senza_Spazio.exe
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\bin\Debug\net9.0\Senza_Spazio.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\bin\Debug\net9.0\Senza_Spazio.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\bin\Debug\net9.0\Senza_Spazio.dll
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\bin\Debug\net9.0\Senza_Spazio.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.dll
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\refint\Senza_Spazio.dll
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\Senza_Spazio.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Senza_Spazio\obj\Debug\net9.0\ref\Senza_Spazio.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\bin\Debug\net9.0\VerificaPari.exe
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\bin\Debug\net9.0\VerificaPari.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\bin\Debug\net9.0\VerificaPari.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\bin\Debug\net9.0\VerificaPari.dll
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\bin\Debug\net9.0\VerificaPari.pdb
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.dll
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\refint\VerificaPari.dll
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.pdb
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\VerificaPari.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\VerificaPari\obj\Debug\net9.0\ref\VerificaPari.dll

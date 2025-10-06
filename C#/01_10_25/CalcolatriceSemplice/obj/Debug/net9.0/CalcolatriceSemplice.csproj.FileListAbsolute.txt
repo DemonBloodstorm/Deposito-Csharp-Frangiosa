@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\bin\Debug\net9.0\CalcolatriceSemplice.exe
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\bin\Debug\net9.0\CalcolatriceSemplice.deps.json
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\bin\Debug\net9.0\CalcolatriceSemplice.runtimeconfig.json
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\bin\Debug\net9.0\CalcolatriceSemplice.dll
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\bin\Debug\net9.0\CalcolatriceSemplice.pdb
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.dll
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\refint\CalcolatriceSemplice.dll
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.pdb
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\CalcolatriceSemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\CalcolatriceSemplice\obj\Debug\net9.0\ref\CalcolatriceSemplice.dll

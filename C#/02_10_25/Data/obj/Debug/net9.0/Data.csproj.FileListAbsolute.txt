@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\data\bin\Debug\net9.0\Data.exe
+C:\Users\gabri\Documents\C#\02_10_25\data\bin\Debug\net9.0\Data.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\data\bin\Debug\net9.0\Data.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\data\bin\Debug\net9.0\Data.dll
+C:\Users\gabri\Documents\C#\02_10_25\data\bin\Debug\net9.0\Data.pdb
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.dll
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.pdb
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\Data.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\data\obj\Debug\net9.0\ref\Data.dll

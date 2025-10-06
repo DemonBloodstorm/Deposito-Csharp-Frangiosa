@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\bin\Debug\net9.0\VettoreRandom.exe
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\bin\Debug\net9.0\VettoreRandom.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\bin\Debug\net9.0\VettoreRandom.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\bin\Debug\net9.0\VettoreRandom.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\bin\Debug\net9.0\VettoreRandom.pdb
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\refint\VettoreRandom.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.pdb
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\VettoreRandom.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreRandom\obj\Debug\net9.0\ref\VettoreRandom.dll

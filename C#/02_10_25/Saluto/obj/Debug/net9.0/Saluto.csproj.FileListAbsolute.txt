@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\bin\Debug\net9.0\Saluto.exe
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\bin\Debug\net9.0\Saluto.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\bin\Debug\net9.0\Saluto.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\bin\Debug\net9.0\Saluto.dll
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\bin\Debug\net9.0\Saluto.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.dll
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\refint\Saluto.dll
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\Saluto.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Saluto\obj\Debug\net9.0\ref\Saluto.dll

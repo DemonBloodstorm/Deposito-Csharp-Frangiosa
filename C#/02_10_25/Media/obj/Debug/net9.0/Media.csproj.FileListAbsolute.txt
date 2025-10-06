@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Media\bin\Debug\net9.0\Media.exe
+C:\Users\gabri\Documents\C#\02_10_25\Media\bin\Debug\net9.0\Media.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Media\bin\Debug\net9.0\Media.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Media\bin\Debug\net9.0\Media.dll
+C:\Users\gabri\Documents\C#\02_10_25\Media\bin\Debug\net9.0\Media.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.dll
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\refint\Media.dll
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\Media.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Media\obj\Debug\net9.0\ref\Media.dll

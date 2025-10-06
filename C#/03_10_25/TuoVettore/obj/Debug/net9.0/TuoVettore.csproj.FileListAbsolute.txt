@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\bin\Debug\net9.0\TuoVettore.exe
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\bin\Debug\net9.0\TuoVettore.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\bin\Debug\net9.0\TuoVettore.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\bin\Debug\net9.0\TuoVettore.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\bin\Debug\net9.0\TuoVettore.pdb
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\refint\TuoVettore.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.pdb
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\TuoVettore.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuoVettore\obj\Debug\net9.0\ref\TuoVettore.dll

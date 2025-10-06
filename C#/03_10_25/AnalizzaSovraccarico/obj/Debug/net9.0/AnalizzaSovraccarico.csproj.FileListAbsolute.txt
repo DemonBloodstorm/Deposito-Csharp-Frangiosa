@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\bin\Debug\net9.0\AnalizzaSovraccarico.exe
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\bin\Debug\net9.0\AnalizzaSovraccarico.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\bin\Debug\net9.0\AnalizzaSovraccarico.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\bin\Debug\net9.0\AnalizzaSovraccarico.dll
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\bin\Debug\net9.0\AnalizzaSovraccarico.pdb
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.dll
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\refint\AnalizzaSovraccarico.dll
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.pdb
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\AnalizzaSovraccarico.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\AnalizzaSovraccarico\obj\Debug\net9.0\ref\AnalizzaSovraccarico.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\bin\Debug\net9.0\SommaOverloading.exe
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\bin\Debug\net9.0\SommaOverloading.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\bin\Debug\net9.0\SommaOverloading.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\bin\Debug\net9.0\SommaOverloading.dll
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\bin\Debug\net9.0\SommaOverloading.pdb
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.dll
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\refint\SommaOverloading.dll
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.pdb
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\SommaOverloading.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\SommaOverloading\obj\Debug\net9.0\ref\SommaOverloading.dll

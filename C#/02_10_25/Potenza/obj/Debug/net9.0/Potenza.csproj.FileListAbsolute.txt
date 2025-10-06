@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\bin\Debug\net9.0\Potenza.exe
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\bin\Debug\net9.0\Potenza.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\bin\Debug\net9.0\Potenza.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\bin\Debug\net9.0\Potenza.dll
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\bin\Debug\net9.0\Potenza.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.dll
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\refint\Potenza.dll
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\Potenza.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Potenza\obj\Debug\net9.0\ref\Potenza.dll

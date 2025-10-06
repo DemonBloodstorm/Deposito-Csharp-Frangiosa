@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\bin\Debug\net9.0\ScontroTraMatrici.exe
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\bin\Debug\net9.0\ScontroTraMatrici.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\bin\Debug\net9.0\ScontroTraMatrici.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\bin\Debug\net9.0\ScontroTraMatrici.dll
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\bin\Debug\net9.0\ScontroTraMatrici.pdb
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.dll
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\refint\ScontroTraMatrici.dll
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.pdb
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ScontroTraMatrici.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\ScontroTraMatrici\obj\Debug\net9.0\ref\ScontroTraMatrici.dll

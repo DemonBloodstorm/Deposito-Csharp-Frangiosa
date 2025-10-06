@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\SommaNumeri\bin\Debug\net9.0\SommaNumeri.exe
+C:\Users\gabri\Documents\C#\SommaNumeri\bin\Debug\net9.0\SommaNumeri.deps.json
+C:\Users\gabri\Documents\C#\SommaNumeri\bin\Debug\net9.0\SommaNumeri.runtimeconfig.json
+C:\Users\gabri\Documents\C#\SommaNumeri\bin\Debug\net9.0\SommaNumeri.dll
+C:\Users\gabri\Documents\C#\SommaNumeri\bin\Debug\net9.0\SommaNumeri.pdb
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.dll
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\refint\SommaNumeri.dll
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.pdb
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\SommaNumeri.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\SommaNumeri\obj\Debug\net9.0\ref\SommaNumeri.dll

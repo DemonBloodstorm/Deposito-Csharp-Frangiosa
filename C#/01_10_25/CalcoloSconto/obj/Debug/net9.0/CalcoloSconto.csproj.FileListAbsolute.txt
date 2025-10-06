@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\CalcoloSconto\bin\Debug\net9.0\CalcoloSconto.exe
+C:\Users\gabri\Documents\C#\CalcoloSconto\bin\Debug\net9.0\CalcoloSconto.deps.json
+C:\Users\gabri\Documents\C#\CalcoloSconto\bin\Debug\net9.0\CalcoloSconto.runtimeconfig.json
+C:\Users\gabri\Documents\C#\CalcoloSconto\bin\Debug\net9.0\CalcoloSconto.dll
+C:\Users\gabri\Documents\C#\CalcoloSconto\bin\Debug\net9.0\CalcoloSconto.pdb
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.dll
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\refint\CalcoloSconto.dll
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.pdb
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\CalcoloSconto.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\CalcoloSconto\obj\Debug\net9.0\ref\CalcoloSconto.dll

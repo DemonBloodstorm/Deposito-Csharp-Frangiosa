@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\bin\Debug\net9.0\LaListaCasuale.exe
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\bin\Debug\net9.0\LaListaCasuale.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\bin\Debug\net9.0\LaListaCasuale.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\bin\Debug\net9.0\LaListaCasuale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\bin\Debug\net9.0\LaListaCasuale.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\refint\LaListaCasuale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\LaListaCasuale.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaListaCasuale\obj\Debug\net9.0\ref\LaListaCasuale.dll

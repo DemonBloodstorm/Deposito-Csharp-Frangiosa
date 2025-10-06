@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\bin\Debug\net9.0\Vocali.exe
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\bin\Debug\net9.0\Vocali.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\bin\Debug\net9.0\Vocali.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\bin\Debug\net9.0\Vocali.dll
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\bin\Debug\net9.0\Vocali.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.dll
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\refint\Vocali.dll
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\Vocali.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Vocali\obj\Debug\net9.0\ref\Vocali.dll

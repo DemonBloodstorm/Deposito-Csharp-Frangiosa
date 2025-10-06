@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\bin\Debug\net9.0\VettoreInvertito.exe
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\bin\Debug\net9.0\VettoreInvertito.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\bin\Debug\net9.0\VettoreInvertito.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\bin\Debug\net9.0\VettoreInvertito.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\bin\Debug\net9.0\VettoreInvertito.pdb
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\refint\VettoreInvertito.dll
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.pdb
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\VettoreInvertito.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\VettoreInvertito\obj\Debug\net9.0\ref\VettoreInvertito.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\registro\bin\Debug\net9.0\Registro.exe
+C:\Users\gabri\Documents\C#\02_10_25\registro\bin\Debug\net9.0\Registro.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\registro\bin\Debug\net9.0\Registro.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\registro\bin\Debug\net9.0\Registro.dll
+C:\Users\gabri\Documents\C#\02_10_25\registro\bin\Debug\net9.0\Registro.pdb
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.dll
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\refint\Registro.dll
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.pdb
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\Registro.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\registro\obj\Debug\net9.0\ref\Registro.dll

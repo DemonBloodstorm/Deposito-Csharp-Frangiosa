@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\bin\Debug\net9.0\Lascia.exe
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\bin\Debug\net9.0\Lascia.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\bin\Debug\net9.0\Lascia.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\bin\Debug\net9.0\Lascia.dll
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\bin\Debug\net9.0\Lascia.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.dll
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\refint\Lascia.dll
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\Lascia.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Lascia\obj\Debug\net9.0\ref\Lascia.dll

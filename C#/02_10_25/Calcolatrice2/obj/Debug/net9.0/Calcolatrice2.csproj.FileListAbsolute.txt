@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\bin\Debug\net9.0\Calcolatrice2.exe
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\bin\Debug\net9.0\Calcolatrice2.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\bin\Debug\net9.0\Calcolatrice2.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\bin\Debug\net9.0\Calcolatrice2.dll
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\bin\Debug\net9.0\Calcolatrice2.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.dll
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\refint\Calcolatrice2.dll
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\Calcolatrice2.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Calcolatrice2\obj\Debug\net9.0\ref\Calcolatrice2.dll

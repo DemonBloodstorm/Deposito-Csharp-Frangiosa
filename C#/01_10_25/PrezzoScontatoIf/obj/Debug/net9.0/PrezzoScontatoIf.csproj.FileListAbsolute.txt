@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\bin\Debug\net9.0\PrezzoScontatoIf.exe
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\bin\Debug\net9.0\PrezzoScontatoIf.deps.json
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\bin\Debug\net9.0\PrezzoScontatoIf.runtimeconfig.json
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\bin\Debug\net9.0\PrezzoScontatoIf.dll
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\bin\Debug\net9.0\PrezzoScontatoIf.pdb
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.dll
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\refint\PrezzoScontatoIf.dll
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.pdb
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\PrezzoScontatoIf.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\PrezzoScontatoIf\obj\Debug\net9.0\ref\PrezzoScontatoIf.dll

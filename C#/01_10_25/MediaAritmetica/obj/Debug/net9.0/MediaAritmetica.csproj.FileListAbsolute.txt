@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\MediaAritmetica\bin\Debug\net9.0\MediaAritmetica.exe
+C:\Users\gabri\Documents\C#\MediaAritmetica\bin\Debug\net9.0\MediaAritmetica.deps.json
+C:\Users\gabri\Documents\C#\MediaAritmetica\bin\Debug\net9.0\MediaAritmetica.runtimeconfig.json
+C:\Users\gabri\Documents\C#\MediaAritmetica\bin\Debug\net9.0\MediaAritmetica.dll
+C:\Users\gabri\Documents\C#\MediaAritmetica\bin\Debug\net9.0\MediaAritmetica.pdb
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.dll
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\refint\MediaAritmetica.dll
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.pdb
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\MediaAritmetica.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\MediaAritmetica\obj\Debug\net9.0\ref\MediaAritmetica.dll

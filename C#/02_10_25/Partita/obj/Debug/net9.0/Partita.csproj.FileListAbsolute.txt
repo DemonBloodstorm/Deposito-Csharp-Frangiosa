@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Partita\bin\Debug\net9.0\Partita.exe
+C:\Users\gabri\Documents\C#\02_10_25\Partita\bin\Debug\net9.0\Partita.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Partita\bin\Debug\net9.0\Partita.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Partita\bin\Debug\net9.0\Partita.dll
+C:\Users\gabri\Documents\C#\02_10_25\Partita\bin\Debug\net9.0\Partita.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.dll
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\refint\Partita.dll
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\Partita.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Partita\obj\Debug\net9.0\ref\Partita.dll

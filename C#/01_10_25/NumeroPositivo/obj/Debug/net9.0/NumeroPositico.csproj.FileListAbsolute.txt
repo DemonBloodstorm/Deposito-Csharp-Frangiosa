@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\NumeroPositivo\bin\Debug\net9.0\NumeroPositico.exe
+C:\Users\gabri\Documents\C#\NumeroPositivo\bin\Debug\net9.0\NumeroPositico.deps.json
+C:\Users\gabri\Documents\C#\NumeroPositivo\bin\Debug\net9.0\NumeroPositico.runtimeconfig.json
+C:\Users\gabri\Documents\C#\NumeroPositivo\bin\Debug\net9.0\NumeroPositico.dll
+C:\Users\gabri\Documents\C#\NumeroPositivo\bin\Debug\net9.0\NumeroPositico.pdb
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.dll
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\refint\NumeroPositico.dll
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.pdb
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\NumeroPositico.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\NumeroPositivo\obj\Debug\net9.0\ref\NumeroPositico.dll

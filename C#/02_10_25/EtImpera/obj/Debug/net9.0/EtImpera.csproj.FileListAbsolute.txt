@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\bin\Debug\net9.0\EtImpera.exe
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\bin\Debug\net9.0\EtImpera.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\bin\Debug\net9.0\EtImpera.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\bin\Debug\net9.0\EtImpera.dll
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\bin\Debug\net9.0\EtImpera.pdb
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.dll
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\refint\EtImpera.dll
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.pdb
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\EtImpera.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\EtImpera\obj\Debug\net9.0\ref\EtImpera.dll

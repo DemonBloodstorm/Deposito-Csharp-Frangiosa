@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\bin\Debug\net9.0\SommaInteri.exe
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\bin\Debug\net9.0\SommaInteri.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\bin\Debug\net9.0\SommaInteri.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\bin\Debug\net9.0\SommaInteri.dll
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\bin\Debug\net9.0\SommaInteri.pdb
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.dll
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\refint\SommaInteri.dll
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.pdb
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\SommaInteri.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\SommaInteri\obj\Debug\net9.0\ref\SommaInteri.dll

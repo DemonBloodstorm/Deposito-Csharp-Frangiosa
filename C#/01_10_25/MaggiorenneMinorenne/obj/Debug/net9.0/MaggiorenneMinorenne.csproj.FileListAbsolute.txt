@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\bin\Debug\net9.0\MaggiorenneMinorenne.exe
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\bin\Debug\net9.0\MaggiorenneMinorenne.deps.json
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\bin\Debug\net9.0\MaggiorenneMinorenne.runtimeconfig.json
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\bin\Debug\net9.0\MaggiorenneMinorenne.dll
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\bin\Debug\net9.0\MaggiorenneMinorenne.pdb
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.dll
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\refint\MaggiorenneMinorenne.dll
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.pdb
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\MaggiorenneMinorenne.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\MaggiorenneMinorenne\obj\Debug\net9.0\ref\MaggiorenneMinorenne.dll

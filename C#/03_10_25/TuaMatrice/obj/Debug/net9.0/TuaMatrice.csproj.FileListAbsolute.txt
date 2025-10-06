@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\bin\Debug\net9.0\TuaMatrice.exe
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\bin\Debug\net9.0\TuaMatrice.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\bin\Debug\net9.0\TuaMatrice.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\bin\Debug\net9.0\TuaMatrice.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\bin\Debug\net9.0\TuaMatrice.pdb
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\refint\TuaMatrice.dll
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.pdb
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\TuaMatrice.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\TuaMatrice\obj\Debug\net9.0\ref\TuaMatrice.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\01_10_25\indovina\bin\Debug\net9.0\Indovina.exe
+C:\Users\gabri\Documents\C#\01_10_25\indovina\bin\Debug\net9.0\Indovina.deps.json
+C:\Users\gabri\Documents\C#\01_10_25\indovina\bin\Debug\net9.0\Indovina.runtimeconfig.json
+C:\Users\gabri\Documents\C#\01_10_25\indovina\bin\Debug\net9.0\Indovina.dll
+C:\Users\gabri\Documents\C#\01_10_25\indovina\bin\Debug\net9.0\Indovina.pdb
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.dll
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\refint\Indovina.dll
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.pdb
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\Indovina.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\01_10_25\indovina\obj\Debug\net9.0\ref\Indovina.dll

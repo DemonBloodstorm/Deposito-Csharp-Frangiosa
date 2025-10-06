@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\bin\Debug\net9.0\Tabellina.exe
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\bin\Debug\net9.0\Tabellina.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\bin\Debug\net9.0\Tabellina.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\bin\Debug\net9.0\Tabellina.dll
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\bin\Debug\net9.0\Tabellina.pdb
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.dll
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\refint\Tabellina.dll
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.pdb
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\Tabellina.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\tabellina\obj\Debug\net9.0\ref\Tabellina.dll

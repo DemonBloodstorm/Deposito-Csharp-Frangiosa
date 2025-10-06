@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\bin\Debug\net9.0\LaLista.exe
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\bin\Debug\net9.0\LaLista.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\bin\Debug\net9.0\LaLista.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\bin\Debug\net9.0\LaLista.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\bin\Debug\net9.0\LaLista.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\refint\LaLista.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\LaLista.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaLista\obj\Debug\net9.0\ref\LaLista.dll

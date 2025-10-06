@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\bin\Debug\net9.0\Stringa.exe
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\bin\Debug\net9.0\Stringa.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\bin\Debug\net9.0\Stringa.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\bin\Debug\net9.0\Stringa.dll
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\bin\Debug\net9.0\Stringa.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.dll
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\refint\Stringa.dll
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\Stringa.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Stringa\obj\Debug\net9.0\ref\Stringa.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\PariDispari\bin\Debug\net9.0\PariDispari.exe
+C:\Users\gabri\Documents\C#\PariDispari\bin\Debug\net9.0\PariDispari.deps.json
+C:\Users\gabri\Documents\C#\PariDispari\bin\Debug\net9.0\PariDispari.runtimeconfig.json
+C:\Users\gabri\Documents\C#\PariDispari\bin\Debug\net9.0\PariDispari.dll
+C:\Users\gabri\Documents\C#\PariDispari\bin\Debug\net9.0\PariDispari.pdb
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.dll
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\refint\PariDispari.dll
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.pdb
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\PariDispari.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\PariDispari\obj\Debug\net9.0\ref\PariDispari.dll

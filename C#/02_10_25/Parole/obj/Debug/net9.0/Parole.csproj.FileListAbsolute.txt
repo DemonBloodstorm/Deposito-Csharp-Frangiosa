@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Parole\bin\Debug\net9.0\Parole.exe
+C:\Users\gabri\Documents\C#\02_10_25\Parole\bin\Debug\net9.0\Parole.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Parole\bin\Debug\net9.0\Parole.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Parole\bin\Debug\net9.0\Parole.dll
+C:\Users\gabri\Documents\C#\02_10_25\Parole\bin\Debug\net9.0\Parole.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.dll
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\refint\Parole.dll
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\Parole.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Parole\obj\Debug\net9.0\ref\Parole.dll

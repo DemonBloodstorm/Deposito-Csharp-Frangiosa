@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\bin\Debug\net9.0\Fattoriale.exe
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\bin\Debug\net9.0\Fattoriale.deps.json
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\bin\Debug\net9.0\Fattoriale.runtimeconfig.json
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\bin\Debug\net9.0\Fattoriale.dll
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\bin\Debug\net9.0\Fattoriale.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.dll
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\refint\Fattoriale.dll
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.pdb
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\Fattoriale.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\02_10_25\Fattoriale\obj\Debug\net9.0\ref\Fattoriale.dll

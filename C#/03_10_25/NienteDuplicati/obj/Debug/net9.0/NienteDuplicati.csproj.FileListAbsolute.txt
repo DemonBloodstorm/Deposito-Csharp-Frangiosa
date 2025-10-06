@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\bin\Debug\net9.0\NienteDuplicati.exe
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\bin\Debug\net9.0\NienteDuplicati.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\bin\Debug\net9.0\NienteDuplicati.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\bin\Debug\net9.0\NienteDuplicati.dll
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\bin\Debug\net9.0\NienteDuplicati.pdb
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.dll
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\refint\NienteDuplicati.dll
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.pdb
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\NienteDuplicati.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\NienteDuplicati\obj\Debug\net9.0\ref\NienteDuplicati.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\bin\Debug\net9.0\LaDiagonale.exe
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\bin\Debug\net9.0\LaDiagonale.deps.json
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\bin\Debug\net9.0\LaDiagonale.runtimeconfig.json
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\bin\Debug\net9.0\LaDiagonale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\bin\Debug\net9.0\LaDiagonale.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\refint\LaDiagonale.dll
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.pdb
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\LaDiagonale.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\03_10_25\LaDiagonale\obj\Debug\net9.0\ref\LaDiagonale.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\bin\Debug\net9.0\Bancomat.exe
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\bin\Debug\net9.0\Bancomat.deps.json
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\bin\Debug\net9.0\Bancomat.runtimeconfig.json
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\bin\Debug\net9.0\Bancomat.dll
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\bin\Debug\net9.0\Bancomat.pdb
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.AssemblyInfo.cs
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.dll
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\refint\Bancomat.dll
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.pdb
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\Bancomat.genruntimeconfig.cache
+C:\Users\gabri\Documents\C#\01_10_25\Bancomat\obj\Debug\net9.0\ref\Bancomat.dll
