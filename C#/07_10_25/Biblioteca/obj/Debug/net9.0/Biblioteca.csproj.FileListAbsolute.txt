@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\bin\Debug\net9.0\Biblioteca.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\bin\Debug\net9.0\Biblioteca.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\bin\Debug\net9.0\Biblioteca.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\bin\Debug\net9.0\Biblioteca.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\bin\Debug\net9.0\Biblioteca.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\refint\Biblioteca.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\Biblioteca.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\Biblioteca\obj\Debug\net9.0\ref\Biblioteca.dll
