@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quanti_Numeri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ef7ed7d1bed9a50612e575be2d488439bdbcd3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c765bed17e57945213061bf18a3389f6ea6c0516")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quanti_Numeri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quanti_Numeri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

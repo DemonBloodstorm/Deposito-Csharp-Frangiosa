@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\bin\Debug\net9.0\EsercizioEreditarietàAvanzato.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\bin\Debug\net9.0\EsercizioEreditarietàAvanzato.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\bin\Debug\net9.0\EsercizioEreditarietàAvanzato.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\bin\Debug\net9.0\EsercizioEreditarietàAvanzato.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\bin\Debug\net9.0\EsercizioEreditarietàAvanzato.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\refint\EsercizioEreditarietàAvanzato.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\EsercizioEreditarietàAvanzato.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietàAvanzato\obj\Debug\net9.0\ref\EsercizioEreditarietàAvanzato.dll
