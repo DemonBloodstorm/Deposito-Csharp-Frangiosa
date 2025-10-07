@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\bin\Debug\net9.0\EsercizioEreditarietà.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\bin\Debug\net9.0\EsercizioEreditarietà.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\bin\Debug\net9.0\EsercizioEreditarietà.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\bin\Debug\net9.0\EsercizioEreditarietà.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\bin\Debug\net9.0\EsercizioEreditarietà.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\refint\EsercizioEreditarietà.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\EsercizioEreditarietà.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\07_10_25\EsercizioEreditarietà\obj\Debug\net9.0\ref\EsercizioEreditarietà.dll
