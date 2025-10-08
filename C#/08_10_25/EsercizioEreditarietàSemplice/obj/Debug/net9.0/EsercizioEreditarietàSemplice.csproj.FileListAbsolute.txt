@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\bin\Debug\net9.0\EsercizioEreditarietàSemplice.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\bin\Debug\net9.0\EsercizioEreditarietàSemplice.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\bin\Debug\net9.0\EsercizioEreditarietàSemplice.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\bin\Debug\net9.0\EsercizioEreditarietàSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\bin\Debug\net9.0\EsercizioEreditarietàSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\refint\EsercizioEreditarietàSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\EsercizioEreditarietàSemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioEreditarietàSemplice\obj\Debug\net9.0\ref\EsercizioEreditarietàSemplice.dll
