@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\bin\Debug\net9.0\EsercizioIncapsulamentoSemplice.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\bin\Debug\net9.0\EsercizioIncapsulamentoSemplice.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\bin\Debug\net9.0\EsercizioIncapsulamentoSemplice.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\bin\Debug\net9.0\EsercizioIncapsulamentoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\bin\Debug\net9.0\EsercizioIncapsulamentoSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\refint\EsercizioIncapsulamentoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\EsercizioIncapsulamentoSemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioIncapsulamentosemplice\obj\Debug\net9.0\ref\EsercizioIncapsulamentoSemplice.dll

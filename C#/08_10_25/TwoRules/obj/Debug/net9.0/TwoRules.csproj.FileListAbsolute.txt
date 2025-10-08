@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\bin\Debug\net9.0\TwoRules.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\bin\Debug\net9.0\TwoRules.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\bin\Debug\net9.0\TwoRules.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\bin\Debug\net9.0\TwoRules.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\bin\Debug\net9.0\TwoRules.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\refint\TwoRules.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\TwoRules.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\TwoRules\obj\Debug\net9.0\ref\TwoRules.dll
