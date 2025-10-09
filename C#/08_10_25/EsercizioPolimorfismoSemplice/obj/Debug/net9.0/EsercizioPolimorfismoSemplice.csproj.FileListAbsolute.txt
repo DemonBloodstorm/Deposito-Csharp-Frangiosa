@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\bin\Debug\net9.0\EsercizioPolimorfismoSemplice.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\bin\Debug\net9.0\EsercizioPolimorfismoSemplice.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\bin\Debug\net9.0\EsercizioPolimorfismoSemplice.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\bin\Debug\net9.0\EsercizioPolimorfismoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\bin\Debug\net9.0\EsercizioPolimorfismoSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\refint\EsercizioPolimorfismoSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\EsercizioPolimorfismoSemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\08_10_25\EsercizioPolimorfismoSemplice\obj\Debug\net9.0\ref\EsercizioPolimorfismoSemplice.dll

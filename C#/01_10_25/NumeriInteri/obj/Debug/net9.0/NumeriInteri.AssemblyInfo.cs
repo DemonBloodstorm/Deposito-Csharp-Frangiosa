@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumeriInteri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc6838432e0188c5ae81b71180e1a54dee25e28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42977a060d8ba68bb6cf143231272afed6b19836")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumeriInteri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumeriInteri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

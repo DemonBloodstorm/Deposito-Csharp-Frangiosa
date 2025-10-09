@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\bin\Debug\net9.0\LeTreRegole.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\bin\Debug\net9.0\LeTreRegole.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\bin\Debug\net9.0\LeTreRegole.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\bin\Debug\net9.0\LeTreRegole.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\bin\Debug\net9.0\LeTreRegole.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\refint\LeTreRegole.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\LeTreRegole.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\09_10_25\LeTreRegole\obj\Debug\net9.0\ref\LeTreRegole.dll
