@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\bin\Debug\net9.0\EsercizioAstrazioneMedio.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\bin\Debug\net9.0\EsercizioAstrazioneMedio.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\bin\Debug\net9.0\EsercizioAstrazioneMedio.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\bin\Debug\net9.0\EsercizioAstrazioneMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\bin\Debug\net9.0\EsercizioAstrazioneMedio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\refint\EsercizioAstrazioneMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\EsercizioAstrazioneMedio.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneMedio\obj\Debug\net9.0\ref\EsercizioAstrazioneMedio.dll
