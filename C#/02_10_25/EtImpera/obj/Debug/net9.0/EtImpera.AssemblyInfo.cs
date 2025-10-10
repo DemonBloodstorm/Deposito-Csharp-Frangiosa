@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EtImpera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42977a060d8ba68bb6cf143231272afed6b19836")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7e15de094a6f941213dd3b31073d21c7e9f7ef8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EtImpera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EtImpera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

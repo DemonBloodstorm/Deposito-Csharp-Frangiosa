@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\bin\Debug\net9.0\TestCsharp.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\bin\Debug\net9.0\TestCsharp.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\bin\Debug\net9.0\TestCsharp.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\bin\Debug\net9.0\TestCsharp.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\bin\Debug\net9.0\TestCsharp.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\refint\TestCsharp.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\TestCsharp.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\TestCsharp\obj\Debug\net9.0\ref\TestCsharp.dll
