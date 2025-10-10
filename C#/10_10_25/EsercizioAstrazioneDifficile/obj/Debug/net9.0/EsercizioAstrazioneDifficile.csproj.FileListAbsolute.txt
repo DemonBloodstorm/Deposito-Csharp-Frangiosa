@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\bin\Debug\net9.0\EsercizioAstrazioneDifficile.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\bin\Debug\net9.0\EsercizioAstrazioneDifficile.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\bin\Debug\net9.0\EsercizioAstrazioneDifficile.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\bin\Debug\net9.0\EsercizioAstrazioneDifficile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\bin\Debug\net9.0\EsercizioAstrazioneDifficile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\refint\EsercizioAstrazioneDifficile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\EsercizioAstrazioneDifficile.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneDifficile\obj\Debug\net9.0\ref\EsercizioAstrazioneDifficile.dll
