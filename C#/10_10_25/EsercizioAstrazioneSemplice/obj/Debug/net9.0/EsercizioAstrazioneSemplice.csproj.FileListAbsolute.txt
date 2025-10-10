@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\bin\Debug\net9.0\EsercizioAstrazioneSemplice.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\bin\Debug\net9.0\EsercizioAstrazioneSemplice.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\bin\Debug\net9.0\EsercizioAstrazioneSemplice.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\bin\Debug\net9.0\EsercizioAstrazioneSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\bin\Debug\net9.0\EsercizioAstrazioneSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\refint\EsercizioAstrazioneSemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\EsercizioAstrazioneSemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\10_10_25\EsercizioAstrazioneSemplice\obj\Debug\net9.0\ref\EsercizioAstrazioneSemplice.dll
