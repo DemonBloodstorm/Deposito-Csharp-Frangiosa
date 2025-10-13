@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalizzaSovraccarico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94086081ceb34f5a7964994f191909e252ca9188")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f169fbdc9588278b87502f063b63f0e48afb76ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalizzaSovraccarico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalizzaSovraccarico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
