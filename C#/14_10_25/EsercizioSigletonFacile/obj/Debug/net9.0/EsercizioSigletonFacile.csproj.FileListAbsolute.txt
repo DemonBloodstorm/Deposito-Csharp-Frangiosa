@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\bin\Debug\net9.0\EsercizioSigletonFacile.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\bin\Debug\net9.0\EsercizioSigletonFacile.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\bin\Debug\net9.0\EsercizioSigletonFacile.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\bin\Debug\net9.0\EsercizioSigletonFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\bin\Debug\net9.0\EsercizioSigletonFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\refint\EsercizioSigletonFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\EsercizioSigletonFacile.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioSigletonFacile\obj\Debug\net9.0\ref\EsercizioSigletonFacile.dll

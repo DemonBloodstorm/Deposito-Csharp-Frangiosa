@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\bin\Debug\net9.0\EsercizioFactoryMethodFacile.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\bin\Debug\net9.0\EsercizioFactoryMethodFacile.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\bin\Debug\net9.0\EsercizioFactoryMethodFacile.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\bin\Debug\net9.0\EsercizioFactoryMethodFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\bin\Debug\net9.0\EsercizioFactoryMethodFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\refint\EsercizioFactoryMethodFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\EsercizioFactoryMethodFacile.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EserciziofactoryMethodFacile\obj\Debug\net9.0\ref\EsercizioFactoryMethodFacile.dll

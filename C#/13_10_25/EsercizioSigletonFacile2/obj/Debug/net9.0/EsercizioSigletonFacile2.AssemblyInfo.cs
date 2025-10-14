@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioSigletonFacile2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+416d941a52af55b47633ebf17ccfabd91fa54616")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd2db3f1e460bdbdb021638564834729009315e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercizioSigletonFacile2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercizioSigletonFacile2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
