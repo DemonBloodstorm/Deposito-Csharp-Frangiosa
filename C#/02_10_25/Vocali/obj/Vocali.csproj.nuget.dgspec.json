@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj": {}
+    "c:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj": {
+    "c:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj",
+        "projectUniqueName": "c:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj",
         "projectName": "Vocali",
-        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj",
+        "projectPath": "c:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\Vocali.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\obj\\",
+        "outputPath": "c:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\02_10_25\\Vocali\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
