@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EsercizioFactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj": {}
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EserciziofactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EsercizioFactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj": {
+    "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EserciziofactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EsercizioFactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EserciziofactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj",
         "projectName": "EsercizioFactoryMethodFacile2",
-        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EsercizioFactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EserciziofactoryMethodFacile2\\EsercizioFactoryMethodFacile2.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EsercizioFactoryMethodFacile2\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Deposito-Csharp-Frangiosa\\C#\\14_10_25\\EserciziofactoryMethodFacile2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

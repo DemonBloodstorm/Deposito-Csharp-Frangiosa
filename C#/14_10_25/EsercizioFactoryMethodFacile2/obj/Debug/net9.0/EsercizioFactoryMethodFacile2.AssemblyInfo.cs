@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioFactoryMethodFacile2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d680eea81ee29befc89816305e22baa6f68e805")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32a04cfdac09c90dd2855259681df53690049251")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercizioFactoryMethodFacile2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercizioFactoryMethodFacile2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
