@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\bin\Debug\net9.0\EsercizioDuePattern.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\bin\Debug\net9.0\EsercizioDuePattern.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\bin\Debug\net9.0\EsercizioDuePattern.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\bin\Debug\net9.0\EsercizioDuePattern.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\bin\Debug\net9.0\EsercizioDuePattern.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\refint\EsercizioDuePattern.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\EsercizioDuePattern.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\14_10_25\EsercizioDuePattern\obj\Debug\net9.0\ref\EsercizioDuePattern.dll

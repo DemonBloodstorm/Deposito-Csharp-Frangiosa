@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioFactoryMethodFacile2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioDuePattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90bbd254a767427fd47780fb32f41b5384508a49")]
-[assembly: System.Reflection.AssemblyProductAttribute("EsercizioFactoryMethodFacile2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EsercizioFactoryMethodFacile2")]
+[assembly: System.Reflection.AssemblyProductAttribute("EsercizioDuePattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EsercizioDuePattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
