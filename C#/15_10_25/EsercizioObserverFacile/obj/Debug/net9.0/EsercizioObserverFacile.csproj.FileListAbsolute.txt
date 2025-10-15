@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\bin\Debug\net9.0\EsercizioObserverFacile.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\bin\Debug\net9.0\EsercizioObserverFacile.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\bin\Debug\net9.0\EsercizioObserverFacile.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\bin\Debug\net9.0\EsercizioObserverFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\bin\Debug\net9.0\EsercizioObserverFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\refint\EsercizioObserverFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\EsercizioObserverFacile.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioObserverFacile\obj\Debug\net9.0\ref\EsercizioObserverFacile.dll
