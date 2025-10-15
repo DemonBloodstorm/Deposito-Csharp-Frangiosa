@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\bin\Debug\net9.0\EsercizioDecoratorFactoryMethod.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\bin\Debug\net9.0\EsercizioDecoratorFactoryMethod.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\bin\Debug\net9.0\EsercizioDecoratorFactoryMethod.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\bin\Debug\net9.0\EsercizioDecoratorFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\bin\Debug\net9.0\EsercizioDecoratorFactoryMethod.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\refint\EsercizioDecoratorFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\EsercizioDecoratorFactoryMethod.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioDecoratorFactoryMethod\obj\Debug\net9.0\ref\EsercizioDecoratorFactoryMethod.dll

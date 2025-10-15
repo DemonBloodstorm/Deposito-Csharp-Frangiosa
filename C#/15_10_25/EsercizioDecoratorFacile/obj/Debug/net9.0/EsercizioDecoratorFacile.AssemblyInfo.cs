@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioDecoratorFacile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1796567379173f6627a9684fa896c9d176d71321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0855eaf47b3cc7e30a589b2d1be4ad103cf7609c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercizioDecoratorFacile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercizioDecoratorFacile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
