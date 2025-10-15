@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\bin\Debug\net9.0\EsercizioNewAgency.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\bin\Debug\net9.0\EsercizioNewAgency.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\bin\Debug\net9.0\EsercizioNewAgency.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\bin\Debug\net9.0\EsercizioNewAgency.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\bin\Debug\net9.0\EsercizioNewAgency.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\refint\EsercizioNewAgency.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\EsercizioNewAgency.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\15_10_25\EsercizioNewsAgency\obj\Debug\net9.0\ref\EsercizioNewAgency.dll
