@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\bin\Debug\net9.0\EsercizioStrategyFacile.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\bin\Debug\net9.0\EsercizioStrategyFacile.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\bin\Debug\net9.0\EsercizioStrategyFacile.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\bin\Debug\net9.0\EsercizioStrategyFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\bin\Debug\net9.0\EsercizioStrategyFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\refint\EsercizioStrategyFacile.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\EsercizioStrategyFacile.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFacile\obj\Debug\net9.0\ref\EsercizioStrategyFacile.dll
