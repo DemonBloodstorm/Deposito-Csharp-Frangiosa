@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\bin\Debug\net9.0\EsercizioStrategyFactoryMethod.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\bin\Debug\net9.0\EsercizioStrategyFactoryMethod.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\bin\Debug\net9.0\EsercizioStrategyFactoryMethod.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\bin\Debug\net9.0\EsercizioStrategyFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\bin\Debug\net9.0\EsercizioStrategyFactoryMethod.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\refint\EsercizioStrategyFactoryMethod.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\EsercizioStrategyFactoryMethod.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\16_10_25\EsercizioStrategyFactoryMethodDecorator\obj\Debug\net9.0\ref\EsercizioStrategyFactoryMethod.dll
