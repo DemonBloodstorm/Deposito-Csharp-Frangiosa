@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\bin\Debug\net9.0\EsercizioDictionary.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\bin\Debug\net9.0\EsercizioDictionary.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\bin\Debug\net9.0\EsercizioDictionary.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\bin\Debug\net9.0\EsercizioDictionary.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\bin\Debug\net9.0\EsercizioDictionary.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\refint\EsercizioDictionary.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\EsercizioDictionary.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionary\obj\Debug\net9.0\ref\EsercizioDictionary.dll

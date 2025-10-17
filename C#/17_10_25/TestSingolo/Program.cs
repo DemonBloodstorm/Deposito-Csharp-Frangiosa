@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 #region Singleton
 
-public sealed class AppContext : IObserver // non sono riuscito a implementare l'observer in AppContext
+public sealed class AppContext : ISubject
 {
     public String Valuta{get; private set;}
     public int Iva{get; private set;}
@@ -29,6 +29,34 @@ public sealed class AppContext : IObserver // non sono riuscito a implementare l
             }
         }
         return _instance;
+    }
+    public void RegisterObserver(IObserver observer)
+    {
+        if (!_observers.Contains(observer))
+            _observers.Add(observer);
+    }
+
+    public void RemoveObserver(IObserver observer)
+    {
+        _observers.Remove(observer);
+    }
+
+    public void NotifyObservers()
+    {
+        foreach (var obs in _observers)
+            obs.Update(this);
+    }
+
+    public void SetIva(int iva)
+    {
+        Iva = iva;
+        NotifyObservers();
+    }
+
+    public void SetSconto(int sconto)
+    {
+        Sconto = sconto;
+        NotifyObservers();
     }
 }
 
