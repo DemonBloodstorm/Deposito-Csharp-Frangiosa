@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\bin\Debug\net9.0\EsercizioDictionarySemplice.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\bin\Debug\net9.0\EsercizioDictionarySemplice.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\bin\Debug\net9.0\EsercizioDictionarySemplice.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\bin\Debug\net9.0\EsercizioDictionarySemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\bin\Debug\net9.0\EsercizioDictionarySemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\refint\EsercizioDictionarySemplice.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\EsercizioDictionarySemplice.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\17_10_25\EsercizioDictionarySemplice\obj\Debug\net9.0\ref\EsercizioDictionarySemplice.dll
