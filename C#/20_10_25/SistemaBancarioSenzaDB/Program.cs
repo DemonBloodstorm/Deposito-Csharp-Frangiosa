@@ -105,22 +105,20 @@ public class NessunInteresse : ICalcoloInteressi
 
 #region Creazione conti - Factory Method
 
-public abstract class ContiFactory
+public interface IContiFactory
 {
-    public abstract Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia);
+    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia);
 }
 
-public class ContoCorrenteFactory : ContiFactory
+public class ContoCorrenteFactory : IContiFactory
 {
-    public override Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoCorrente(idConto, idCliente, strategia);
+    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoCorrente(idConto, idCliente, strategia);
 }
 
-public class ContoPremiumFactory : ContiFactory
+public class ContoPremiumFactory : IContiFactory
 {
-    public override Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoPremium(idConto, idCliente, strategia);
+    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoPremium(idConto, idCliente, strategia);
 }
-
-
 
 #endregion Creazione conti - Factory Method
 
@@ -131,7 +129,10 @@ public sealed class BankContext
     Dictionary<int, Conti> _conti = new Dictionary<int, Conti>();
     Dictionary<int, List<Operazioni>> _operazioni = new Dictionary<int, List<Operazioni>>();
     private static BankContext? _instance;
-    private static readonly object _lock = new object();
+    public string Valuta { get; private set; }
+    public decimal TassoBase { get; private set; }
+    public decimal TassoPremium { get; private set; }
+    public string NomeBanca { get; private set; }
 
     private BankContext()
     {
@@ -157,6 +158,8 @@ public sealed class BankContext
     {
         Console.WriteLine($"Messaggio: {message}");
     }
+
+
 }
 
 #endregion BankContext
