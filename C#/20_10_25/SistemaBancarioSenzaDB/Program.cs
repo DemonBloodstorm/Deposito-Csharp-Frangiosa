@@ -122,12 +122,12 @@ public class ContoPremiumFactory : IContiFactory
 
 #endregion Creazione conti - Factory Method
 
-#region BankContext- Singleton da finire 
+#region BankContext- Singleton 
 public sealed class BankContext
 {
-    Dictionary<int, Cliente> _clienti = new Dictionary<int, Cliente>();
-    Dictionary<int, Conti> _conti = new Dictionary<int, Conti>();
-    Dictionary<int, List<Operazioni>> _operazioni = new Dictionary<int, List<Operazioni>>();
+    Dictionary<int, Cliente> _clienti {get; private set;}
+    Dictionary<int, Conti> _conti {get; private set;}
+    Dictionary<int, List<Operazioni>> _operazioni {get; private set;}
     private static BankContext? _instance;
     public string Valuta { get; private set; }
     public decimal TassoBase { get; private set; }
@@ -159,7 +159,22 @@ public sealed class BankContext
         Console.WriteLine($"Messaggio: {message}");
     }
 
+    private BankContext(){
+        Clienti = new Dictionary<int, Cliente>();
+        Conti = new Dictionary<int, Conti>();
+        Operazioni = new Dictionary<int, List<Operazioni>>();
+        Valuta = "EUR";
+        TassoBase = 0.3m;
+        TassoPremium = 0.5m;
+        NomeBanca = "Banca di Frangiosa";
+    }
 
+    public void ConfigurazioneConto(string valuta, decimal TassoBase, decimal TassoPremium)
+    {
+        Valuta = valuta;
+        TassoBase = TassoBase;
+        TassoPremium = TassoPremium;
+    }
 }
 
 #endregion BankContext
