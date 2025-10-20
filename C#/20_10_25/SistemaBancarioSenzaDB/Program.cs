@@ -178,3 +178,55 @@ public sealed class BankContext
 }
 
 #endregion BankContext
+
+#region Observer
+
+public interface IObserver
+{
+    void Update(string message);
+}
+
+interface ISoggetto
+{
+    void Registra(IObserver observer);
+    void Rimuovi(IObserver observer);
+    void Notifica(string message);
+}
+
+public class NuovoConto : ISoggetto
+{
+    private List<IObserver> NuovoConto = new List<IObserver>();
+
+    public void Registra(IObserver observer)
+    {
+        NuovoConto.Add(observer);
+    }
+    public void Rimuovi(IObserver observer)
+    {
+        NuovoConto.Remove(observer);
+    }
+    public void Notifica(string message)
+    {
+        foreach (var observer in NuovoConto)
+        {
+            observer.Update(message);
+        }
+    }
+    
+
+}
+
+#endregion Observer
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        
+    }
+}
+
+
+
+
+
