@@ -1,17 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 
+#region menù
 public class MostraMenu
 {
     public void Menu()
     {
-        Console.WriteLine("2. Apri uno nuovo conto");
-        Console.WriteLine("3. Deposita denaro");
-        Console.WriteLine("4. Preleva denaro");
-        Console.WriteLine("5. Visualizza saldo");
-        Console.WriteLine("6. Esci");
+        Console.WriteLine("1. Apri uno nuovo conto");
+        Console.WriteLine("2. Deposita denaro");
+        Console.WriteLine("3. Preleva denaro");
+        Console.WriteLine("4. Visualizza saldo");
+        Console.WriteLine("5. Esci");
     }
+    
 }
+
+#endregion menù
 
 #region cliente
 public class Cliente
@@ -33,7 +37,7 @@ public class Cliente
 #endregion cliente
 
 #region conto
-public abstract class Conti
+public abstract class Conto
 {
     public int IdConto { get; set;}
     public int IdCliente { get; set; }
@@ -107,17 +111,17 @@ public class NessunInteresse : ICalcoloInteressi
 
 public interface IContiFactory
 {
-    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia);
+    public Conto CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia);
 }
 
 public class ContoCorrenteFactory : IContiFactory
 {
-    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoCorrente(idConto, idCliente, strategia);
+    public Conto CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoCorrente(idConto, idCliente, strategia);
 }
 
 public class ContoPremiumFactory : IContiFactory
 {
-    public Conti CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoPremium(idConto, idCliente, strategia);
+    public Conto CreaConto(int idConto, int idCliente, ICalcoloInteressi strategia) => new ContoPremium(idConto, idCliente, strategia);
 }
 
 #endregion Creazione conti - Factory Method
@@ -133,6 +137,8 @@ public sealed class BankContext
     public decimal TassoBase { get; private set; }
     public decimal TassoPremium { get; private set; }
     public string NomeBanca { get; private set; }
+    public BankNotifier Notificatore { get; private set; }
+
 
     private BankContext()
     {
@@ -154,11 +160,6 @@ public sealed class BankContext
         return _instance;
     }
 
-    public void Messaggio(string message)
-    {
-        Console.WriteLine($"Messaggio: {message}");
-    }
-
     private BankContext(){
         Clienti = new Dictionary<int, Cliente>();
         Conti = new Dictionary<int, Conti>();
@@ -167,6 +168,7 @@ public sealed class BankContext
         TassoBase = 0.3m;
         TassoPremium = 0.5m;
         NomeBanca = "Banca di Frangiosa";
+        Modificatore = new ModificatoreConto();
     }
 
     public void ConfigurazioneConto(string valuta, decimal TassoBase, decimal TassoPremium)
@@ -193,27 +195,25 @@ interface ISoggetto
     void Notifica(string message);
 }
 
-public class NuovoConto : ISoggetto
+public class BankNotifier : ISoggetto
 {
-    private List<IObserver> NuovoConto = new List<IObserver>();
+    private readonly List<IObserver> _observers = new();
 
     public void Registra(IObserver observer)
     {
-        NuovoConto.Add(observer);
+        _observers.Add(observer);
     }
+
     public void Rimuovi(IObserver observer)
     {
-        NuovoConto.Remove(observer);
+        _observers.Remove(observer);
     }
+
     public void Notifica(string message)
     {
-        foreach (var observer in NuovoConto)
-        {
-            observer.Update(message);
-        }
+        foreach (var obs in _observers)
+            obs.Update(message);
     }
-    
-
 }
 
 #endregion Observer
@@ -222,7 +222,75 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        
+        MostraMenu menu = new MostraMenu();
+        int scelta;
+
+        do
+        {
+            menu.Menu();
+            try
+            {
+                scelta = int.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Input non valido. Inserisci un numero.");
+                continue;
+            }
+            switch (scelta)
+            {
+                case 1:
+                    AggiungiCliente(banca);
+                    break;
+                case 2:
+                    ApriConto(banca);
+                    break;
+                case 3:
+                    Deposita(banca);
+                    break;
+                case 4:
+                    Preleva(banca);
+                    break;
+                case 5:
+                    VisualizzaSaldi(banca);
+                    break;
+                case 6:
+                    Console.WriteLine("Uscita dal sistema...");
+                    break;
+                default:
+                    Console.WriteLine("Scelta non valida!");
+                    break;
+            }
+        }while(scelta != 6);
+    }
+    
+    private static void AggiungiCliente(Banca banca)
+    {
+        Console.WriteLine("Inserisci il nome del cliente:");
+        string nome = Console.ReadLine();
+        Console.WriteLine("Inserisci il cognome del cliente:");
+        string cognome = Console.ReadLine();
+        Console.WriteLine("Inserisci l'indirizzo email del cliente:");
+        string email = Console.ReadLine();
+        Cliente cliente = new Cliente(nome, cognome, telefono, email);
+        banca.AggiungiCliente(cliente);
+        Console.WriteLine($"Cliente {cliente.Nome} {cliente.Cognome} aggiunto con successo!");
+    }
+    private static void ApriConto(Banca banca)
+    {
+        Console.Write("ID conto: ");
+        int idConto = int.Parse(Console.ReadLine()!);
+        Console.Write("ID cliente: ");
+        int idCliente = int.Parse(Console.ReadLine()!);
+        Console.Write("Tipo conto (1=Base, 2=Premium): ");
+        int tipo = int.Parse(Console.ReadLine()!);
+
+        IContiFactory factory = tipo == 2
+            ? new ContoPremiumFactory()
+            : new ContoCorrenteFactory();
+
+        banca.Conti[idConto] = factory.CreaConto(idConto, idCliente);
+        banca.Notificatore.Notifica($"Aperto conto {idConto} per cliente {idCliente}");
     }
 }
 
