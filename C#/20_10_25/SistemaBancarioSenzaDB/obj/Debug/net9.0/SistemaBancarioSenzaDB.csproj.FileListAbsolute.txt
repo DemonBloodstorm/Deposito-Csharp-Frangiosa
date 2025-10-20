@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\bin\Debug\net9.0\SistemaBancarioSenzaDB.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\bin\Debug\net9.0\SistemaBancarioSenzaDB.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\bin\Debug\net9.0\SistemaBancarioSenzaDB.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\bin\Debug\net9.0\SistemaBancarioSenzaDB.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\bin\Debug\net9.0\SistemaBancarioSenzaDB.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\refint\SistemaBancarioSenzaDB.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\SistemaBancarioSenzaDB.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\SistemaBancarioSenzaDB\obj\Debug\net9.0\ref\SistemaBancarioSenzaDB.dll
