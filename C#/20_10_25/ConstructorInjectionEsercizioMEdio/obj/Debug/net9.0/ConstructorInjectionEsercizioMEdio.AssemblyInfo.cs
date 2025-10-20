@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Inserisci_Password")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConstructorInjectionEsercizioMEdio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e495ac80d119d30a4624324a70755ac408dfcb7e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Inserisci_Password")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Inserisci_Password")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConstructorInjectionEsercizioMEdio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConstructorInjectionEsercizioMEdio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
