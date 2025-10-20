@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\bin\Debug\net9.0\ConstructorInjectionEsercizio.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\bin\Debug\net9.0\ConstructorInjectionEsercizio.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\bin\Debug\net9.0\ConstructorInjectionEsercizio.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\bin\Debug\net9.0\ConstructorInjectionEsercizio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\bin\Debug\net9.0\ConstructorInjectionEsercizio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\refint\ConstructorInjectionEsercizio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ConstructorInjectionEsercizio.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\20_10_25\ConstructorInjectionEsercizio\obj\Debug\net9.0\ref\ConstructorInjectionEsercizio.dll
