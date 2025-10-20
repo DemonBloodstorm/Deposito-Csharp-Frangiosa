@@ -10,28 +10,43 @@ public class Rubrica // Classe che rappresenta una rubrica telefonica
     {   
         for (int i = 0; i < 3; i++)
         {
-            Console.WriteLine($"Inserisci nome contatto {i + 1}");
-            nome = Console.ReadLine();
-            Console.WriteLine($"Inserisci numero di telefono per {nome}");
-            numero = Console.ReadLine().Trim();
+            Console.WriteLine($"Inserisci nome contatto {i + 1}:");
+            nome = Console.ReadLine()?.Trim();
+
+            Console.WriteLine($"Inserisci numero di telefono per {nome}:");
+            numero = Console.ReadLine()?.Trim();
+
+            // Controlli di validità
+            if (contatti.Count >= 16)
+            {
+                Console.WriteLine("Errore: la rubrica è piena (massimo 16 contatti).");
+                break;
+            }
+
+            if (string.IsNullOrEmpty(nome) || string.IsNullOrEmpty(numero))
+            {
+                Console.WriteLine("Errore: nome o numero non possono essere vuoti.");
+                continue;
+            }
+
+            if (numero.Length < 5)
+            {
+                Console.WriteLine("Errore: il numero di telefono è troppo corto.");
+                continue;
+            }
+
             if (contatti.ContainsKey(nome))
             {
-                Console.WriteLine($"Errore: Nome '{nome}' già presente nella rubrica.");
-                return;
+                Console.WriteLine($"Errore: il nome '{nome}' è già presente nella rubrica.");
+                continue;
             }
-            else
-            {
-                if (contatti.Count < 16 && !string.IsNullOrEmpty(nome) && !string.IsNullOrEmpty(numero) && contatti.Count > 14)
-                {
-                    contatti.Add(nome, numero);
-                }
-                else
-                {
-                    Console.WriteLine($"Errore: Rubrica piena, nome/numero vuoti o numero troppo corto");
-                    continue;
-                }
-            }
-        }
+
+        // Se tutti i controlli passano, aggiungi il contatto alla rubrica
+        contatti.Add(nome, numero);
+        Console.WriteLine($"Contatto '{nome}' aggiunto con successo!");
+    }
+
+    Console.WriteLine($"\nTotale contatti in rubrica: {contatti.Count}");
     }
     public void RimuoviContatto() // Metodo per rimuovere un contatto dalla rubrica
     {
@@ -61,7 +76,7 @@ public class Rubrica // Classe che rappresenta una rubrica telefonica
 
 #region secondo esercizio
 
-public class QuanteParole
+public class QuanteParole // Classe che conta quante volte appare ogni parola in una frase
 {
     Dictionary<string, int> parole;
     private string frase;
@@ -92,7 +107,21 @@ public class QuanteParole
 
 #endregion secondo esercizio
 
+#region terzo esercizio
 
+public class MostraMenu
+    {
+        void Menu(){
+            Console.WriteLine($"1. Aggiungi prodotto");
+            Console.WriteLine($"2. Rimuovi prodotto");
+            Console.WriteLine($"3. Visualizza prodotti");
+            Console.WriteLine($"4. Esci");
+        }
+    }
+
+    
+
+#endregion terzo esercizio
 
 
 

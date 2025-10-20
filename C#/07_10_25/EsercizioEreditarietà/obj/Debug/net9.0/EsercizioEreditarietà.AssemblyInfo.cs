@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercizioEreditarietà")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b071a5d7af1f66a867a4495dbd8a2fb31905d3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0900df7367c17401d8a018e0ef439bb590a5462")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercizioEreditarietà")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercizioEreditarietà")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
