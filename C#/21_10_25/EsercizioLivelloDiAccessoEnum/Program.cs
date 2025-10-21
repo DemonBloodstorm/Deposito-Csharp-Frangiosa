@@ -2,22 +2,21 @@
 
 public class Accesso
 {
-    // Proprietà pubblica per impostare il livello di accesso
-    public LivelloAccesso livelloAccesso { get; set; }
+    public LivelloAccesso livelloAccesso { get; set; } // Proprietà pubblica per impostare il livello di accesso
 
-    public enum LivelloAccesso
+    public enum LivelloAccesso // Enumerazione per i livelli di accesso
     {
         Ospite,
         Utente,
         Amministratore
     }
 
-    public void Livello()
+    public void Livello() // Metodo per determinare il livello di accesso
     {
-        switch (livelloAccesso)
+        switch (livelloAccesso) // Switch per determinare il livello di accesso
         {
             case LivelloAccesso.Ospite:
-                Console.WriteLine("Sei un ospite, puoi visualizzare ma non interagire con altri");
+                Console.WriteLine("Sei un ospite, puoi visualizzare ma non interagire con altri"); 
                 break;
 
             case LivelloAccesso.Utente:
@@ -39,16 +38,16 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var accesso = new Accesso();
-        accesso.livelloAccesso = Accesso.LivelloAccesso.Ospite;
+        var accesso = new Accesso(); // Crea un'istanza della classe Accesso
+        accesso.livelloAccesso = Accesso.LivelloAccesso.Ospite; // Imposta il livello di accesso come ospite
         accesso.Livello();
         Console.WriteLine($"\n");
         
-        accesso.livelloAccesso = Accesso.LivelloAccesso.Utente;
+        accesso.livelloAccesso = Accesso.LivelloAccesso.Utente; // Imposta il livello di accesso come utente
         accesso.Livello();
         Console.WriteLine($"\n");
 
-        accesso.livelloAccesso = Accesso.LivelloAccesso.Amministratore;
+        accesso.livelloAccesso = Accesso.LivelloAccesso.Amministratore; // Imposta il livello di accesso come amministratore
         accesso.Livello();
     }
 }
