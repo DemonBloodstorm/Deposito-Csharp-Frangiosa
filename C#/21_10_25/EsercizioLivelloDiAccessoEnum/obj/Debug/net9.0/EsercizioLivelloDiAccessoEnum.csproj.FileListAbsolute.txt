@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\bin\Debug\net9.0\EsercizioLivelloDiAccessoEnum.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\bin\Debug\net9.0\EsercizioLivelloDiAccessoEnum.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\bin\Debug\net9.0\EsercizioLivelloDiAccessoEnum.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\bin\Debug\net9.0\EsercizioLivelloDiAccessoEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\bin\Debug\net9.0\EsercizioLivelloDiAccessoEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\refint\EsercizioLivelloDiAccessoEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\EsercizioLivelloDiAccessoEnum.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioLivelloDiAccessoEnum\obj\Debug\net9.0\ref\EsercizioLivelloDiAccessoEnum.dll
