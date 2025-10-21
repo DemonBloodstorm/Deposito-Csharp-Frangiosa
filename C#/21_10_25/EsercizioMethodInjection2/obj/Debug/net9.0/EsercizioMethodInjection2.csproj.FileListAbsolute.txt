@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\bin\Debug\net9.0\EsercizioMethodInjection2.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\bin\Debug\net9.0\EsercizioMethodInjection2.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\bin\Debug\net9.0\EsercizioMethodInjection2.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\bin\Debug\net9.0\EsercizioMethodInjection2.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\bin\Debug\net9.0\EsercizioMethodInjection2.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\refint\EsercizioMethodInjection2.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\EsercizioMethodInjection2.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioMethodInjection2\obj\Debug\net9.0\ref\EsercizioMethodInjection2.dll
