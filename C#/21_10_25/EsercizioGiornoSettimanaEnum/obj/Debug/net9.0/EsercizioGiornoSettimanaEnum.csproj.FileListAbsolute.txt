@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\bin\Debug\net9.0\EsercizioGiornoSettimanaEnum.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\bin\Debug\net9.0\EsercizioGiornoSettimanaEnum.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\bin\Debug\net9.0\EsercizioGiornoSettimanaEnum.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\bin\Debug\net9.0\EsercizioGiornoSettimanaEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\bin\Debug\net9.0\EsercizioGiornoSettimanaEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\refint\EsercizioGiornoSettimanaEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\EsercizioGiornoSettimanaEnum.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioGiornoSettimanaEnum\obj\Debug\net9.0\ref\EsercizioGiornoSettimanaEnum.dll
