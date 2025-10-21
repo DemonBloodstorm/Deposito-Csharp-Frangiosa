@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\bin\Debug\net9.0\EsercizioNotificheDIedEnum.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\bin\Debug\net9.0\EsercizioNotificheDIedEnum.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\bin\Debug\net9.0\EsercizioNotificheDIedEnum.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\bin\Debug\net9.0\EsercizioNotificheDIedEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\bin\Debug\net9.0\EsercizioNotificheDIedEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\refint\EsercizioNotificheDIedEnum.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\EsercizioNotificheDIedEnum.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioNotificheDIedEnum\obj\Debug\net9.0\ref\EsercizioNotificheDIedEnum.dll
