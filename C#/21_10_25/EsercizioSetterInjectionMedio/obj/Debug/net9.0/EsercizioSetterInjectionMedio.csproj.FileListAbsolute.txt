@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\bin\Debug\net9.0\EsercizioSetterInjectionMedio.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\bin\Debug\net9.0\EsercizioSetterInjectionMedio.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\bin\Debug\net9.0\EsercizioSetterInjectionMedio.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\bin\Debug\net9.0\EsercizioSetterInjectionMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\bin\Debug\net9.0\EsercizioSetterInjectionMedio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\refint\EsercizioSetterInjectionMedio.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\EsercizioSetterInjectionMedio.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\21_10_25\EsercizioSetterInjectionMedio\obj\Debug\net9.0\ref\EsercizioSetterInjectionMedio.dll
