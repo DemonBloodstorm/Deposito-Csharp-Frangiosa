@@ -71,12 +71,12 @@ namespace EsercizioN_Tier.Presentation
                         customer = lastCustomer!; // In questo caso, l'ultimo cliente aggiunto al repository è il nuovo cliente, 
                                                   // il ! serve per dire al programma che questa assegnazione è sicuramente non nulla
                         Console.WriteLine($"Cliente creato con ID {customer.Id}");
-                        ServicesContainer.Instance.CustomerService.AddCustomer(customerName, email); 
+                        
                     }
                     else
                     {
                         customer = existingCustomer;
-                        Console.WriteLine($"Cliente trovato: {customer.Name}");
+                        Console.WriteLine($"Cliente trovato: {customer.Name}"); 
                     }
 
                     var items = new List<(int productId, int quantity)>();
