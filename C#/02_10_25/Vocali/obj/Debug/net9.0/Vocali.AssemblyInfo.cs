@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vocali")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0242ce9889c33b73d7ab13584a12a619e3e9f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+876de7de9ce38ee1d65a0351bef94b57dfb870b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vocali")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vocali")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
