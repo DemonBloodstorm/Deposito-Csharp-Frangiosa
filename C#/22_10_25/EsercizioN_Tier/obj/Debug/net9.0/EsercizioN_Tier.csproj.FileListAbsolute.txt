@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\bin\Debug\net9.0\EsercizioN_Tier.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\bin\Debug\net9.0\EsercizioN_Tier.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\bin\Debug\net9.0\EsercizioN_Tier.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\bin\Debug\net9.0\EsercizioN_Tier.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\bin\Debug\net9.0\EsercizioN_Tier.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\refint\EsercizioN_Tier.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\EsercizioN_Tier.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\22_10_25\EsercizioN_Tier\obj\Debug\net9.0\ref\EsercizioN_Tier.dll
