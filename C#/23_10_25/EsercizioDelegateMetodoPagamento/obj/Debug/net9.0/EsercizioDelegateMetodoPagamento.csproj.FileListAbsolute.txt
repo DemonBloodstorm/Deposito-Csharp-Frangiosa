@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\bin\Debug\net9.0\EsercizioDelegateMetodoPagamento.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\bin\Debug\net9.0\EsercizioDelegateMetodoPagamento.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\bin\Debug\net9.0\EsercizioDelegateMetodoPagamento.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\bin\Debug\net9.0\EsercizioDelegateMetodoPagamento.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\bin\Debug\net9.0\EsercizioDelegateMetodoPagamento.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\refint\EsercizioDelegateMetodoPagamento.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\EsercizioDelegateMetodoPagamento.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegateMetodoPagamento\obj\Debug\net9.0\ref\EsercizioDelegateMetodoPagamento.dll
