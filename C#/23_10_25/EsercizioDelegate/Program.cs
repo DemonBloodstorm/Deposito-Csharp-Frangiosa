@@ -79,11 +79,11 @@ namespace DeleagteExtra
         {
             logger = log;
         }
-        public void StampaSuConsole(string message)
+        public static void StampaSuConsole(string message)
         {
             Console.WriteLine(message);
         }
-        public void StampaSuFile(string message)
+        public static void StampaSuFile(string message)
         {
             using (StreamWriter sw = new StreamWriter("log.txt", true))
             {
@@ -100,10 +100,11 @@ namespace DeleagteExtra
             Menu.Operazioni();
             Menu.SceltaOperazione();
             var (nomeUtente, nomeOperazione) = (Menu.nomeUtente, Menu.nomeOperazione);
-            DelegateLogger.SetLogger(new DelegateLogger().StampaSuConsole);
+            DelegateLogger.Logger logger = DelegateLogger.StampaSuConsole;
+            logger += DelegateLogger.StampaSuFile;
+            DelegateLogger.SetLogger(logger);
             DelegateLogger.Log($"{nomeUtente}, hai eseguito l'operazione {nomeOperazione}");
-            DelegateLogger.SetLogger(new DelegateLogger().StampaSuFile);
-            DelegateLogger.Log($"{nomeUtente}, hai eseguito l'operazione {nomeOperazione}");
+            
         }
     }
 }
