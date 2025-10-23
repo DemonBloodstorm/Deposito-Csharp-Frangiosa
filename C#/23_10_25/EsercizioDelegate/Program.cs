@@ -3,10 +3,11 @@ using System.Collections.Generic;
 
 namespace DeleagteExtra
 {
-    public class MostraMenu
+    public class Menu
     {
         delegate int Operazione(int a, int b);
-        public static string nome;
+        public static string nomeUtente;
+        public static string nomeOperazione;
         public static int somma(int a, int b)
         {
             return a + b;
@@ -19,12 +20,12 @@ namespace DeleagteExtra
         public static void Utente()
         {
             Console.WriteLine($"Inserisci nome utente: ");
-            nome = Console.ReadLine();
-            Console.WriteLine($"Benvenuto {nome}");
+            nomeUtente = Console.ReadLine();
+            Console.WriteLine($"Benvenuto {nomeUtente}");
         }
-        public static void menuOperazioni()
+        public static void Operazioni()
         {
-            Console.WriteLine($"Cosa vuoi fare {nome}?");
+            Console.WriteLine($"Cosa vuoi fare {nomeUtente}?");
             Console.WriteLine("1. Somma");
             Console.WriteLine("2. Moltiplicazione");
         }
@@ -36,6 +37,7 @@ namespace DeleagteExtra
             {
                 Console.WriteLine($"Hai scelto la somma");
                 Operazione op = somma;
+                nomeOperazione = "somma";
                 Console.WriteLine($"Inserisci il primo numero: ");
                 int a = int.Parse(Console.ReadLine());
                 Console.WriteLine($"Inserisci il secondo numero: ");
@@ -47,28 +49,61 @@ namespace DeleagteExtra
             {
                 Console.WriteLine($"Hai scelto la moltiplicazione");
                 Operazione op = moltiplicazione;
+                nomeOperazione = "moltiplicazione";
                 Console.WriteLine($"Inserisci il primo numero: ");
                 int a = int.Parse(Console.ReadLine());
                 Console.WriteLine($"Inserisci il secondo numero: ");
                 int b = int.Parse(Console.ReadLine());
                 int risultato = op(a, b);
                 Console.WriteLine($"Il risultato della moltiplicazione è: {risultato}");
-            
+
             }
             else
             {
                 Console.WriteLine($"Scelta non valida");
             }
         }
-
+    }
+    public class DelegateLogger
+    {
+        public delegate void Logger(string message);
+        private static Logger logger;
+        public static void Log(string message)
+        {
+            if (logger != null)
+            {
+                logger(message);
+            }
+        }
+        public static void SetLogger(Logger log)
+        {
+            logger = log;
+        }
+        public void StampaSuConsole(string message)
+        {
+            Console.WriteLine(message);
+        }
+        public void StampaSuFile(string message)
+        {
+            using (StreamWriter sw = new StreamWriter("log.txt", true))
+            {
+                sw.WriteLine(message);
+                sw.Close();
+            }
+        }
     }
     public class Program
     {
         public static void Main(string[] args)
         {
-            MostraMenu.Utente();
-            MostraMenu.menuOperazioni();
-            MostraMenu.SceltaOperazione();
+            Menu.Utente();
+            Menu.Operazioni();
+            Menu.SceltaOperazione();
+            var (nomeUtente, nomeOperazione) = (Menu.nomeUtente, Menu.nomeOperazione);
+            DelegateLogger.SetLogger(new DelegateLogger().StampaSuConsole);
+            DelegateLogger.Log($"{nomeUtente}, hai eseguito l'operazione {nomeOperazione}");
+            DelegateLogger.SetLogger(new DelegateLogger().StampaSuFile);
+            DelegateLogger.Log($"{nomeUtente}, hai eseguito l'operazione {nomeOperazione}");
         }
     }
 }
