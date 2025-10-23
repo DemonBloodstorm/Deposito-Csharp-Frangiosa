@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\bin\Debug\net9.0\EsercizioDelegate.exe
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\bin\Debug\net9.0\EsercizioDelegate.deps.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\bin\Debug\net9.0\EsercizioDelegate.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\bin\Debug\net9.0\EsercizioDelegate.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\bin\Debug\net9.0\EsercizioDelegate.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.sourcelink.json
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\refint\EsercizioDelegate.dll
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.pdb
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\EsercizioDelegate.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\Deposito-Csharp-Frangiosa\C#\23_10_25\EsercizioDelegate\obj\Debug\net9.0\ref\EsercizioDelegate.dll
