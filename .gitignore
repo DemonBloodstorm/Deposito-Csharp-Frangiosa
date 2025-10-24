@@ -1,0 +1,15 @@
+*.props
+*.json
+*.cache
+akatsuki/
+C\#/02_10_25/Inserisci_Password/obj/Debug/net9.0/Inserisci_Password.AssemblyInfo.cs
+C\#/02_10_25/Inserisci_Password/obj/Debug/net9.0/Inserisci_Password.AssemblyInfoInputs.cache
+C\#/02_10_25/Inserisci_Password/obj/rider.project.restore.info
+C\#/02_10_25/Saluto/obj/Debug/net9.0/saluto.AssemblyInfo.cs
+C\#/02_10_25/Saluto/obj/Debug/net9.0/saluto.AssemblyInfoInputs.cache
+C\#/02_10_25/Vocali/obj/Debug/net9.0/Vocali.AssemblyInfo.cs
+C\#/02_10_25/Vocali/obj/Debug/net9.0/Vocali.AssemblyInfoInputs.cache
+C\#/02_10_25/Vocali/obj/rider.project.restore.info
+*.cs
+*.cache
+*.info
