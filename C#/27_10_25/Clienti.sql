@@ -204,8 +204,6 @@ where eta BETWEEN '20' AND '40'
 AND
 citta LIKE 'ROMA';
 
-
-
 delete from clienti
 where id BETWEEN 1 AND 300
 
